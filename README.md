@@ -56,3 +56,8 @@
   - Matplotlib
   - Scikit-learn
 - محیط توسعه: VS Code / Jupyter Notebook
+
+--- 
+
+## لینک پروژه استعدادیابی تنیس
+https://github.com/Mahyarbo/Tennis-Talent-Detection-Project-/issues
