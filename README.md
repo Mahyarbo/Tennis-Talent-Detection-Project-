@@ -60,4 +60,4 @@
 --- 
 
 ## لینک پروژه استعدادیابی تنیس
-https://github.com/Mahyarbo/Tennis-Talent-Detection-Project-/issues
+https://github.com/Mahyarbo/Mahyarbo/issues
